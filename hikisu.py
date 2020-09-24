@@ -1,3 +1,4 @@
+#引数を使うやつ
 import sys
 
 args = sys.argv
